@@ -88,7 +88,7 @@ project/
 
 #### Why?
 
-config.json contains your personal file path (e.g., C:/Users/Ergin/Documents/Passwords/)
+config.json contains your personal file path
 
 Other users won’t have this path, so the app may not function properly if it’s not reset
 
